@@ -4,5 +4,6 @@ hello
 and
 welcome to karnataka
 add
+subtract
 multiply
 division
